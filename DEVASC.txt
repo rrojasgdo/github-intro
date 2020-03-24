@@ -1,7 +1,0 @@
-Cambio como un experto
-Este es el cambio 2
-Este cambio lo hice en el branch exam
-
-Pregunta: 1
-Como te llamas?
-R= Ruben Rojas
